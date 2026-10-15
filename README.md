@@ -55,7 +55,7 @@ When high-velocity atmospheric meteors (bolides/fireballs) enter Earth's atmosph
 ---
 
 ## ⚡ Heuristic Classification Logic / خوارزمية التمييز الفيزيائية
-<div>
+
 ```text
                           ┌──────────────────────────┐
                           │   Incoming Signal Data   │
@@ -76,7 +76,7 @@ When high-velocity atmospheric meteors (bolides/fireballs) enter Earth's atmosph
       YES                NO                         YES                      NO
       /                    \                       /                          \
  ☄️ Meteor Candidate    Noise / Explosion     🌋 Earthquake Candidate    Local Construction
-</div>
+```
 
 ### 🔬 Physical Event Signatures:
 1. **Meteor / Fireball Candidate:** High infrasound energy, distinctive shockwave **N-wave profile**, dominant frequency $0.1\text{--}5\text{ Hz}$, brief pulse duration, absent $P/S$ seismic progression.
